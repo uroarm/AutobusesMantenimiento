@@ -7,6 +7,8 @@ package Controlador;
 /**
  *
  * @author arman
+ * practica 
+ * 
  */
 public class Controlador {
     
